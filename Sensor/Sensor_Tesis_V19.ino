@@ -19,23 +19,12 @@
 const int SENSOR_ID = 8; //Nombre del sensor
 const int tiempo_de_registro = 30; // duracion del tiempo de registro tras ultima activación del threshold(en segundos).
 const float sensibilidad_actividad = 0.01; // cuantos g varia la media del buffer corto respecto de la media del buffer largo. Valor mínimo recomendado 0.005
-/*#define FIREBASE_HOST "Host-del-proyecto.firebaseio.com"
-  #define FIREBASE_AUTH "Clave-Auth"
-  #define WIFI_SSID "wifi-ssid"
-  #define WIFI_PASSWORD "password"*/
 
+#define FIREBASE_HOST "Host-del-proyecto.firebaseio.com"
+#define FIREBASE_AUTH "Clave-Auth"
+#define WIFI_SSID "wifi-ssid"
+#define WIFI_PASSWORD "password"
 
-#define WIFI_SSID "wifi-campus"
-#define WIFI_PASSWORD "uandes2200"
-
-/*#define WIFI_SSID "Yolanda"
-  #define WIFI_PASSWORD "CBC2315788"*/
-
-/*#define WIFI_SSID "Galaxy FG"
-  #define WIFI_PASSWORD "fenderyfiona"*/
-
-#define FIREBASE_HOST "tesis-4bc6a-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "Hf9nrOPEQ09LJEepeNiDtvkkFGwyWlkKkVOZemW0"
 
 
 
