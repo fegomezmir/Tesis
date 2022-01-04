@@ -1,7 +1,7 @@
 
 Procesamiento
 
-En esta carpeta se encuantra los codigo utilizados para analizar los datos obtenidos por lo sensores.
+En esta carpeta se encuantran los códigos utilizados para analizar los datos obtenidos por lo sensores.
 
 Interfaz V2: Este código se utiliza para clasifiar las mediciones obtenidas por los sensores y tener una vista previa de los datos.
 Análisis V2: Este código analiza los datos guardados en un txt al visualizarse y guardarse los datos en el código Interfaz V2.
